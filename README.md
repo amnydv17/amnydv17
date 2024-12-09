@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_amn_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/the_amn_ydv?logo=twitter&style=for-the-badge" alt="the_amn_ydv" /></a> </p>
 
-- 🌱 I’m currently learning **React.js.**
+- 🌱 I’m currently learning **Backend Development.**
 
 - 🤝 I’m looking for help with [Audio Analysis and Classification](https://github.com/amnydv17/Audio-Analysis-and-Classification)
 
