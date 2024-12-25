@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Audio Analysis and Classification](https://github.com/amnydv17/Audio-Analysis-and-Classification)
 
-- 👨‍💻 All of my projects are available at [https://amnydv17.github.io/Aman-Portfolio/](https://portfolio-amanyadaviiitu.vercel.app/)
+- 👨‍💻 All of my projects are available at [PortFolio-->](https://portfolio-amanyadaviiitu.vercel.app/)
 
 - 💬 Ask me about **Data Science and DSA.**
 
