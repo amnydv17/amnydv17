@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help to guide me for build my career.
 
-- 👨‍💻 All of my projects are available at [PortFolio-->](https://portfolio-amanyadaviiitu.vercel.app/)
+- 👨‍💻 All of my projects are available at [PortFolio Website>](https://portfolio-amanyadaviiitu.vercel.app/)
 
 - 💬 Ask me about **Data Science and DSA.**
 
