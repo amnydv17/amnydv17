@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Development.**
 
-- 🤝 I’m looking for help with [Audio Analysis and Classification](https://github.com/amnydv17/Audio-Analysis-and-Classification)
+- 🤝 I’m looking for help to guide me for build my career.
 
 - 👨‍💻 All of my projects are available at [PortFolio-->](https://portfolio-amanyadaviiitu.vercel.app/)
 
